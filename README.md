@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+### I'm Unili (@CuNO3). A student.
+
+### 🌱 I’m currently learning 
+- C / C++
+- Rust
+- Go
+- Python
+- Lua
+- Erlang / Elixir
+- Java / Kotlin
+- Flutter / Dart
+- .NET / C#
+
+
 <!--
 **CuNO3/CuNO3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
