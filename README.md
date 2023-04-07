@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Unili (@CuNO3). A student.
+### I'm Unili (@CuNO3, formerly @Unili-LiZnCu). A student.
 
 ### 🌱 I’m currently learning 
 - C / C++
