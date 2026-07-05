@@ -1,6 +1,7 @@
 # Hi there 👋
 
-## I'm Leonard Li (@CuNO3). A student. I join GitHub in early 2018 (@Cu3N).
+## I'm Leonard Li (@CuNO3). A student. 
+I join GitHub in early 2018 (@Cu3N).
 
 ### I code...
 
